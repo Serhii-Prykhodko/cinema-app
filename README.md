@@ -42,5 +42,5 @@
 * install and run [Postman](https://www.postman.com/downloads/) for testing,
 * install [Tomcat 9.0.50](https://archive.apache.org/dist/tomcat/tomcat-9/v9.0.50/bin/) configure and run,
 * the application will create ADMIN and USER, you can find credentials [here](https://github.com/Serhii-Prykhodko/cinema-app/blob/main/src/main/java/mate/academy/spring/util/DataInitializer.java).
-
-
+## UML diagram:
+![](uml.png)
