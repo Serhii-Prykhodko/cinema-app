@@ -26,11 +26,13 @@ public class DataInitializer {
         Role userRole = new Role();
         userRole.setRoleName(Role.RoleName.USER);
         roleService.add(userRole);
+        
         User admin = new User();
         admin.setEmail("admin@gmail.com");
         admin.setPassword("admin12345");
         admin.setRoles(Set.of(adminRole));
         userService.add(admin);
+        
         User user = new User();
         user.setEmail("user@gmail.com");
         user.setPassword("user12345");
