@@ -39,8 +39,8 @@
 * clone [this](https://github.com/Serhii-Prykhodko/cinema-app) project,
 * install [MySQL](https://dev.mysql.com/downloads/installer/) and create a schema, 
 * configure [db.properties](https://github.com/Serhii-Prykhodko/cinema-app/blob/main/src/main/resources/db.properties) with your URL, USERNAME and PASSWORD,
-* install [Tomcat 9.0.50](https://archive.apache.org/dist/tomcat/tomcat-9/v9.0.50/bin/) configure and run,
 * install and run [Postman](https://www.postman.com/downloads/) for testing,
+* install [Tomcat 9.0.50](https://archive.apache.org/dist/tomcat/tomcat-9/v9.0.50/bin/) configure and run,
 * the application will create ADMIN and USER, you can find credentials [here](https://github.com/Serhii-Prykhodko/cinema-app/blob/main/src/main/java/mate/academy/spring/util/DataInitializer.java).
 
 
