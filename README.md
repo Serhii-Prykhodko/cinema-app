@@ -41,6 +41,12 @@
 * configure [db.properties](https://github.com/Serhii-Prykhodko/cinema-app/blob/main/src/main/resources/db.properties) with your DRIVER, URL, USERNAME and PASSWORD,
 * install and run [Postman](https://www.postman.com/downloads/) for testing,
 * install [Tomcat 9.0.50](https://archive.apache.org/dist/tomcat/tomcat-9/v9.0.50/bin/) configure and run,
-* the application will create ADMIN and USER, you can find credentials [here](https://github.com/Serhii-Prykhodko/cinema-app/blob/main/src/main/java/mate/academy/spring/util/DataInitializer.java).
+* the application will create ADMIN and USER
+
+| Role  | login           | password   |
+|-------|-----------------|------------|
+| ADMIN | admin@gmail.com | admin12345 |
+| USER  | user@gmail.com  | user12345  |
+
 ## UML diagram:
 ![](uml.png)
